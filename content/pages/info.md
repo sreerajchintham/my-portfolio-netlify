@@ -170,7 +170,7 @@ sections:
         label: TensorFlow
         url: ''
       - type: Label
-        label: Excel
+        label: Microsoft Excel
         url: ''
     colors: colors-f
     elementId: ''
