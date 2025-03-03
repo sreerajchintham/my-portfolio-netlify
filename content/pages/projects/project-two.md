@@ -9,7 +9,10 @@ description: >-
   part of much bigger project I will be working on soon.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: >-
+    /images/DALL·E 2025-02-26 23.49.45 - A minimalistic logo design for 'Sonus
+    Flow' inspired by the Speechify logo. The design features a sleek, abstract
+    soundwave icon with smooth, flowing .webp
   altText: Project thumbnail image
 media:
   type: ImageBlock
