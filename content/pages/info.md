@@ -164,6 +164,9 @@ sections:
         label: Docker
         url: ''
       - type: Label
+        label: JupyterNotebook
+        url: ''
+      - type: Label
         label: TensorFlow
         url: ''
     colors: colors-f
