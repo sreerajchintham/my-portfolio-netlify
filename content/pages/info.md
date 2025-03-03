@@ -146,6 +146,9 @@ sections:
         label: Bash
         url: ''
       - type: Label
+        label: Tableau
+        url: ''
+      - type: Label
         label: Git
         url: ''
     colors: colors-f
