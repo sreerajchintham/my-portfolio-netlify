@@ -229,7 +229,7 @@ sections:
           - type: Link
             label: GitHub
             altText: ''
-            url: 'https://github.com/'
+            url: 'https://github.com/sreerajchintham'
             showIcon: false
             icon: arrowRight
             iconPosition: right
