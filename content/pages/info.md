@@ -13,11 +13,33 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      ## **About Me**
+
+
+      Hi, I'm **Sreeraj Chintham**, a passionate tech enthusiast with a
+      background in **Business Analytics and IT Management**. I thrive at the
+      intersection of **data science, software development, and
+      problem-solving**, constantly exploring new technologies to build
+      impactful solutions.
+
+
+      Recently, I deployed **Sonus Flow**, a personal web app that converts
+      novel chapters into audio, inspired by my love for platforms like
+      Speechify. This is just the beginning—I’m continuously learning and
+      working on more projects to refine my skills and build tools that others
+      can benefit from.
+
+
+      I actively engage in **hackathons, coding challenges, and peer learning**,
+      always looking for ways to improve. Sessions with industry professionals
+      like **Jon and Faizan Ahmed** have been incredibly insightful, helping me
+      shape my approach to development. I love taking on challenges, and while I
+      haven’t built for users yet, I’m on my way to making an impact.
+
+
+      Feel free to check out my **projects, insights, and ongoing work**—I’d
+      love to connect!
     media:
       type: ImageBlock
       url: /images/IMG_0414.jpeg
