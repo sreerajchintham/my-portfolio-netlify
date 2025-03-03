@@ -58,6 +58,7 @@ sections:
         styles:
           self:
             textAlign: left
+        title: linkedIn
       - type: FeaturedItem
         actions:
           - type: Link
