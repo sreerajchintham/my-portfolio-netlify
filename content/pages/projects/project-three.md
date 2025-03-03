@@ -5,9 +5,9 @@ colors: colors-a
 date: '2025-01-15'
 client: Personal Project
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  A Personal Project which aims to transform regular lightnovels or webnovels
+  which have thousands of chapters in different webpages into an ebook (Kindle
+  Format) or pdf for now. The Project is still in Progress
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
