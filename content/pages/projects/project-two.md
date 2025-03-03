@@ -5,8 +5,8 @@ colors: colors-a
 date: '2025-02-25'
 client: Personal Project
 description: >-
-  This is a small personal project that I created out of my own necessity and
-  will be part of much bigger project I will be working on soon.
+  A small personal project that I created out of my own necessity and will be
+  part of much bigger project I will be working on soon.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
