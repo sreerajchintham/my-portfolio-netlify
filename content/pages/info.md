@@ -142,6 +142,9 @@ sections:
       - type: Label
         label: Javascript
         url: ''
+      - type: Label
+        label: Git
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
