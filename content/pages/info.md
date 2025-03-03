@@ -72,7 +72,7 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/download.png
         altText: logo two
         caption: Caption of the image
         elementId: ''
