@@ -142,6 +142,9 @@ sections:
       - type: Label
         label: Java
         url: ''
+      - type: Label
+        label: Javascript
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
