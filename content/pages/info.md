@@ -134,6 +134,9 @@ sections:
         label: Swift
         url: ''
       - type: Label
+        label: SQL
+        url: ''
+      - type: Label
         label: Python
         url: ''
     colors: colors-f
