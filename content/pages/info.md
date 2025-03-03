@@ -158,6 +158,9 @@ sections:
         label: Langchain
         url: ''
       - type: Label
+        label: Kubernetes
+        url: ''
+      - type: Label
         label: Docker
         url: ''
     colors: colors-f
