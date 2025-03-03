@@ -5,14 +5,19 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
+  because I worked with an entire team :) but they definitely followed my lead
+  most of the time.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: >-
+    /images/DALL·E 2025-02-26 23.49.45 - A minimalistic logo design for 'Sonus
+    Flow' inspired by the Speechify logo. The design features a sleek, abstract
+    soundwave icon with smooth, flowing .webp
   altText: Project image
 ---
 
