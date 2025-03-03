@@ -268,8 +268,7 @@ sections:
         text: ''
         featuredImage:
           type: ImageBlock
-          url: >-
-            /images/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp
+          url: /images/7a791a7183478843b347a5d17fc79e13.webp
           altText: Item image
           caption: Caption of the image
           elementId: ''
