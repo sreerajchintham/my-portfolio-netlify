@@ -69,7 +69,7 @@ sections:
       - type: ImageBlock
         url: /images/download.png
         altText: logo two
-        caption: Caption of the image
+        caption: I worked as Software Engineer with Deloitte for 3 years.
         elementId: ''
     colors: colors-f
     spacing: 16
