@@ -5,13 +5,7 @@ sections:
   - type: HeroSection
     title: >-
       Hi, I'm an aspiring software engineer with a strong passion for data
-      analysis, data science, machine learning, and AI. I believe that these
-      technologies have the power to revolutionize productivity and efficiency
-      across industries. Currently, I'm pursuing a degree in Business Analytics
-      and IT Management at St. Francis College, where I'm honing my skills in
-      data-driven decision-making and technological innovation. My goal is to
-      leverage my technical and analytical expertise to create impactful
-      solutions that drive growth and efficiency. Welcome to my portfolio!
+      analysis, data science, machine learning, and AI. 
     subtitle: >-
       This is my info — I'm sharing it all this with ya'll to impress you with
       all the hard work I've done in the past few years. Once you're impressed,
