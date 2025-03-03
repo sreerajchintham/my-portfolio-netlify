@@ -163,6 +163,9 @@ sections:
       - type: Label
         label: Docker
         url: ''
+      - type: Label
+        label: TensorFlow
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
