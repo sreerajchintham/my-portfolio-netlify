@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     title: >-
       Hi, I'm an aspiring software engineer with a strong passion for data
-      analysis, data science, machine learning, and AI. 
+      analysis, data science, machine learning, and AI.
     subtitle: >-
       I believe that these technologies have the power to revolutionize
       productivity and efficiency across industries. Currently, I'm pursuing a
