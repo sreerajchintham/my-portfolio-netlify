@@ -169,6 +169,9 @@ sections:
       - type: Label
         label: TensorFlow
         url: ''
+      - type: Label
+        label: Excel
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
