@@ -7,13 +7,11 @@ sections:
       Hi, I'm an aspiring software engineer with a strong passion for data
       analysis, data science, machine learning, and AI.
     subtitle: >-
-      I believe that these technologies have the power to revolutionize
-      productivity and efficiency across industries. Currently, I'm pursuing a
-      degree in Business Analytics and IT Management at St. Francis College,
-      where I'm honing my skills in data-driven decision-making and
-      technological innovation. My goal is to leverage my technical and
-      analytical expertise to create impactful solutions that drive growth and
-      efficiency. Welcome to my portfolio!
+      Currently, I'm pursuing a degree in Business Analytics and IT Management
+      at St. Francis College, where I'm honing my skills in data-driven
+      decision-making and technological innovation. My goal is to leverage my
+      technical and analytical expertise to create impactful solutions that
+      drive growth and efficiency. Welcome to my portfolio!
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
