@@ -5,9 +5,8 @@ colors: colors-a
 date: '2025-02-25'
 client: Personal Project
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  This is a small personal project that I created out of my own necessity and
+  will be part of uch bigger project I will be working on soon.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
