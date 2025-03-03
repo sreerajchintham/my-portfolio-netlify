@@ -11,7 +11,7 @@ sections:
       at St. Francis College, where I'm honing my skills in data-driven
       decision-making and technological innovation. My goal is to leverage my
       technical and analytical expertise to create impactful solutions that
-      drive growth and efficiency. Welcome to my portfolio!
+      drive growth and efficiency.
     text: >
       I have worked on automation projects using web scraping and have completed
       multiple data visualization projects. One of my key projects involved
