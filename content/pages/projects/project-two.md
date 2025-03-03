@@ -1,29 +1,131 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: Sonus-Flow
 colors: colors-a
-date: '2021-12-20'
-client: Awesome client
+date: '2025-02-25'
+client: Personal Project
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  A small personal project that I created out of my own necessity and will be
+  part of much bigger project I will be working on soon.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: >-
+    /images/DALL·E 2025-02-26 23.49.45 - A minimalistic logo design for 'Sonus
+    Flow' inspired by the Speechify logo. The design features a sleek, abstract
+    soundwave icon with smooth, flowing .webp
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: >-
+    /images/DALL·E 2025-02-26 23.49.45 - A minimalistic logo design for 'Sonus
+    Flow' inspired by the Speechify logo. The design features a sleek, abstract
+    soundwave icon with smooth, flowing .webp
   altText: Project image
 ---
+# **Sonus Flow – Transforming Text into Seamless Audio Narration**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+## **Overview**
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Sonus Flow is an innovative **text-to-speech (TTS) application** designed to convert online novel chapters into high-quality audio files, enabling users to enjoy their favorite light novels, web novels, and other digital content in an **immersive and hands-free** listening experience. Built with cutting-edge **web scraping, natural language processing (NLP), and audio conversion technologies**, Sonus Flow offers a seamless and efficient way to transform digital text into human-like speech.
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+## **Project Inspiration**
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+The idea for Sonus Flow was born out of a need for **accessible and convenient** content consumption. In an era where people are constantly multitasking, reading long-form digital content can be time-consuming. Whether commuting, exercising, or working, many users prefer listening over reading. Sonus Flow bridges this gap by providing an **instant and interactive** audio experience for online content.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+## **Key Features**
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+### 🎙 **Dynamic Text-to-Speech (TTS) Conversion**
+
+*   Utilizes **Google Text-to-Speech (gTTS)** for high-quality speech generation in multiple languages.
+
+*   Converts digital novel chapters into **lifelike audio narration** with clear pronunciation.
+
+*   Supports **English, Spanish, French, German**, and more, catering to a global audience.
+
+### 🌐 **Seamless Web Scraping for Chapter Extraction**
+
+*   Fetches novel chapters from online platforms through **intelligent web scraping** using `requests` and `BeautifulSoup`.
+
+*   Automatically extracts the **main text content** while eliminating unnecessary elements like ads and navigation links.
+
+*   Provides a **smooth reading experience** by structuring the extracted text into a well-formatted output.
+
+### 🎧 **Instant Audio File Generation & Playback**
+
+*   Converts the extracted text into an **MP3 or WAV** audio file.
+
+*   Allows users to **play the audio directly** in the web application or **download it** for offline listening.
+
+*   Ensures **low-latency** conversion to make the process as fast and efficient as possible.
+
+### 🔄 **Automated Chapter Navigation**
+
+*   Implements a **Next Chapter** feature that dynamically fetches and loads the next chapter without requiring manual input.
+
+*   Stores the **next chapter URL** in session memory, ensuring **a continuous listening experience**.
+
+*   Enables effortless binge-listening of novel chapters without interruption.
+
+### 🖥 **User-Friendly Interface**
+
+*   Developed with **Streamlit**, ensuring a simple, clean, and intuitive UI.
+
+*   Provides a **minimalist and distraction-free** experience for users of all technical backgrounds.
+
+*   Supports **real-time interaction** and responsive design for an engaging user journey.
+
+## **Technology Stack**
+
+Sonus Flow is built using a robust and efficient tech stack that ensures **high performance and scalability**:
+
+*   **Python** – The backbone of the application for data processing and automation.
+
+*   **Streamlit** – Provides an interactive and responsive web-based UI.
+
+*   **BeautifulSoup & Requests** – For web scraping and extracting novel chapters from online sources.
+
+*   **gTTS (Google Text-to-Speech)** – Converts extracted text into high-quality speech.
+
+*   **Pydub** – Used for audio format conversion (MP3 to WAV).
+
+*   **Session State in Streamlit** – Stores chapter progress and enhances user experience.
+
+## **How It Works**
+
+1.  **User Inputs a Novel Chapter URL** → The application scrapes the webpage and extracts the text.
+
+2.  **Text Processing** → The extracted text is formatted and prepared for audio conversion.
+
+3.  **TTS Conversion** → Google’s Text-to-Speech (gTTS) engine converts the text into **a natural-sounding voice file**.
+
+4.  **Playback & Download Options** → The generated **audio file can be played in the app** or **downloaded** in MP3/WAV format.
+
+5.  **Next Chapter Automation** → Clicking **“Next Chapter”** automatically fetches and processes the subsequent chapter.
+
+## **Use Cases**
+
+*   **Light Novel & Web Novel Readers**: Listen to novels without straining your eyes.
+
+*   **Students & Researchers**: Convert articles, study materials, and notes into audio for hands-free learning.
+
+*   **Visually Impaired Users**: Enables accessibility by transforming **text into speech** effortlessly.
+
+*   **Multitaskers**: Enjoy novel reading while **commuting, exercising, or working**.
+
+## **Future Enhancements**
+
+The development roadmap for Sonus Flow includes:
+
+✅ **Improved TTS Voices** – Implementing **AI-based voice models** for more natural and expressive narration.
+
+✅ **Support for More Formats** – Adding options for **EPUB, PDF, and DOCX** input support.
+
+✅ **Mobile App Version** – Extending Sonus Flow to **iOS and Android** for better accessibility.
+
+✅ **Personalized Voice Settings** – Allowing users to adjust **speech speed, pitch, and voice tone**.
+
+✅ **Multi-Chapter Download** – Letting users **batch-download** entire volumes as audiobooks.
+
+## **Conclusion**
+
+Sonus Flow is a **revolutionary tool for converting digital content into engaging audio experiences**. With its **intuitive design, powerful text-to-speech capabilities, and seamless automation**, it transforms the way users consume online novels. Whether you are a **book lover, student, or audiobook enthusiast**, Sonus Flow ensures that **your favorite content is always accessible, anytime and anywhere**. 🚀🎧
