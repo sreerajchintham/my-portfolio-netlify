@@ -12,11 +12,8 @@ sections:
       decision-making and technological innovation. My goal is to leverage my
       technical and analytical expertise to create impactful solutions that
       drive growth and efficiency. Welcome to my portfolio!
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |2
+       have worked on automation projects using web scraping and have completed multiple data visualization projects. One of my key projects involved using Tableau for a case study on optimizing business operations for DFI, a retail group in Singapore. I enjoy both coding and reading, and I'm always eager to explore new ways technology can drive innovation. Welcome to my portfolio!
     actions: []
     media:
       type: ImageBlock
