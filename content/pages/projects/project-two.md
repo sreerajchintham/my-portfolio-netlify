@@ -22,7 +22,7 @@ media:
     soundwave icon with smooth, flowing .webp
   altText: Project image
 ---
-# <https://github.com/sreerajchintham/Sonus-Flow>**Sonus Flow – Transforming Text into Seamless Audio Narration**
+# **Sonus Flow – Transforming Text into Seamless Audio Narration**
 
 ## **Overview**
 
