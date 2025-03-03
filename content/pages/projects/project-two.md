@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Sonus-Flow
+title: Sonus Flow
 colors: colors-a
 date: '2025-02-25'
 client: Personal Project
