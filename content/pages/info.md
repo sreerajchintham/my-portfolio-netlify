@@ -259,7 +259,7 @@ sections:
           - type: Link
             label: LinkedIn
             altText: ''
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/in/sreeraj-chintham/'
             showIcon: false
             icon: arrowRight
             iconPosition: right
