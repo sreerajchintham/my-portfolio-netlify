@@ -10,7 +10,10 @@ description: >-
   Format) or pdf for now. The Project is still in Progress.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: >-
+    /images/DALL·E 2025-03-03 15.53.12 - A vintage-style logo for 'BookWeaver'
+    featuring an open old book with intricate golden details. The pages appear
+    slightly aged, and from the center of.webp
   altText: Project thumbnail image
 media:
   type: ImageBlock
