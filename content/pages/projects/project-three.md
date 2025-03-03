@@ -3,7 +3,7 @@ type: ProjectLayout
 title: BOOK Weaver
 colors: colors-a
 date: '2025-01-15'
-client: Awesome client
+client: Personal Project
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
