@@ -269,7 +269,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+            /images/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp
           altText: Item image
           caption: Caption of the image
           elementId: ''
