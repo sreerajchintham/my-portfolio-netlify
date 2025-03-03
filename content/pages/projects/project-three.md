@@ -7,7 +7,7 @@ client: Personal Project
 description: >-
   A Personal Project which aims to transform regular lightnovels or webnovels
   which have thousands of chapters in different webpages into an ebook (Kindle
-  Format) or pdf for now. The Project is still in Progress
+  Format) or pdf for now. The Project is still in Progress.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
