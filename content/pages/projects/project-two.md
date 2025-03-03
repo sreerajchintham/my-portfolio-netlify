@@ -20,10 +20,6 @@ media:
     soundwave icon with smooth, flowing .webp
   altText: Project image
 ---
-Here's a well-written, detailed description of **Sonus Flow** for your portfolio:
-
-
-
 # **Sonus Flow – Transforming Text into Seamless Audio Narration**
 
 ## **Overview**
