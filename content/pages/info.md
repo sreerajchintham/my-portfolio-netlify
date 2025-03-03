@@ -154,6 +154,9 @@ sections:
       - type: Label
         label: Git
         url: ''
+      - type: Label
+        label: Langchain
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
