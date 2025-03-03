@@ -149,6 +149,9 @@ sections:
         label: Tableau
         url: ''
       - type: Label
+        label: PowerBi
+        url: ''
+      - type: Label
         label: Git
         url: ''
     colors: colors-f
