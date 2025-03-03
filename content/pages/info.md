@@ -241,15 +241,7 @@ sections:
         title: ''
         subtitle: ''
         text: ''
-        actions:
-          - type: Link
-            label: Twitter
-            altText: ''
-            url: 'https://twitter.com/'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
